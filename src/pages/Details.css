@@ -1,0 +1,10 @@
+.detailsPage {
+    display: flex;
+    justify-content: center !important;
+    align-items: center ! important;
+    height: 100vh; 
+}
+
+.detailsContainer {
+    text-align: center; 
+}
